@@ -21,7 +21,7 @@ const Contact = () => {
       className="text-center tracking-tighter">
         <p className="my-4">{CONTACT.address}</p>
         <p className="my-4">{CONTACT.phoneNo}</p>
-        <a href="mailto:your-anshika.522375@gmail.com" className="border-b">{CONTACT.email}</a>
+        <a href="mailto:anshika.522375@gmail.com" className="border-b">{CONTACT.email}</a>
       </motion.div>
     </div>
   
