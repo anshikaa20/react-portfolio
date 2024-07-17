@@ -21,7 +21,7 @@ const Navbar = () => {
         <a href="https://github.com/anshikaa20" target="_blank" rel="noopener noreferrer"  className="icon">
           <FaGithub  />
         </a>
-        <a href="mailto:your-anshika.522375@gmail.com" target="_blank" rel="noopener noreferrer "  className="icon">
+        <a href="mailto:anshika.522375@gmail.com" target="_blank" rel="noopener noreferrer "  className="icon">
           <SiGmail  />
         </a>
         <a href="https://www.instagram.com/__apoeticlife__/?__d=11" target="_blank" rel="noopener noreferrer"  className="icon">
