@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import "../custom-slider.css"; // Import custom CSS
 import { EDUCATION, EXPERIENCES, SKILLS, CERTIFICATIONS } from "../constants";
 import { motion } from "framer-motion";
 
@@ -58,7 +59,7 @@ const MyLearningJourney = () => {
               key={index}
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: 100 }}
-              transition={{ duration: 0.5 }}
+              transition={{ duration: 2 }}
               className="px-4"
             >
               <div className="bg-gradient-to-r from-pink-200 via-slate-300 to-purple-300 rounded-lg shadow-lg p-4">
