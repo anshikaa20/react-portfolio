@@ -27,6 +27,7 @@ const Navbar = () => {
         <a href="https://www.instagram.com/__apoeticlife__/?__d=11" target="_blank" rel="noopener noreferrer"  className="icon">
           <FaInstagramSquare  />
         </a>
+        
      </div>
     </nav>
     
